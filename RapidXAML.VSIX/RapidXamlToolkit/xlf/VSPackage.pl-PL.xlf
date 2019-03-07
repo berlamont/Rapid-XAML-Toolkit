@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en" target-language="pl-PL" original="../VSPackage.en-US.resx">
+    <body>
+      <trans-unit id="106">
+        <source>Rapid XAML Toolkit</source>
+        <target state="translated">Rapid XAML Toolkit</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="107">
+        <source>Profiles</source>
+        <target state="translated">Profile</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="110">
+        <source>Rapid XAML Toolkit</source>
+        <target state="translated">Rapid XAML Toolkit</target>
+        <note />
+      </trans-unit>
+      <trans-unit id="112">
+        <source>Tools to accelerate XAML app development</source>
+        <target state="translated">Narzędzia przyspieszające tworzenie aplikacji XAML</target>
+        <note />
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
